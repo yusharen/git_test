@@ -1,0 +1,11 @@
+namespace "git_test".db_core;
+
+context table {
+
+	entity world {
+	
+	    key continent: String(100);
+	
+	 };
+
+};
