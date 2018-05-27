@@ -7,5 +7,11 @@ context table {
 	    key continent: String(100);
 	
 	 };
+	 
+	 	entity world2 {
+	
+	    key continent: String(100);
+	
+	 };
 
 };
