@@ -4,7 +4,7 @@ context table {
 
 	entity world {
 	
-	    key continent: String(100);
+	    key continent: String(90);
 	
 	 };
 
